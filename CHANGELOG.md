@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-25)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`46c8d4e`](https://github.com/stdlib-js/stdlib/commit/46c8d4e6f632a8fb7942c1661e5a4e5d75d59c60) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`9d961d3`](https://github.com/stdlib-js/stdlib/commit/9d961d3dbc8299eaa1f3fe0a5bf7c471c2907c43) - **test:** add test cases for `blas/base/dtrmv` [(#6733)](https://github.com/stdlib-js/stdlib/pull/6733) _(by Shabareesh Shetty)_
 -   [`08f9c1a`](https://github.com/stdlib-js/stdlib/commit/08f9c1af6dee1cc36cda84b10230500e75d53ff5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`4ca068f`](https://github.com/stdlib-js/stdlib/commit/4ca068f174225d1eaec123656682589febf1b547) - **test:** update to test for exact equality [(#2864)](https://github.com/stdlib-js/stdlib/pull/2864) _(by Aman Bhansali)_
