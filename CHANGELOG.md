@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-06-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`4427c2e`](https://github.com/stdlib-js/stdlib/commit/4427c2e66d64d52d597dddf6e531d87d6c433cc5) - **test:** change structure of fixtures for `blas/base/dtrmv` [(#7190)](https://github.com/stdlib-js/stdlib/pull/7190) _(by Shabareesh Shetty)_
 -   [`46c8d4e`](https://github.com/stdlib-js/stdlib/commit/46c8d4e6f632a8fb7942c1661e5a4e5d75d59c60) - **refactor:** use base assertion utility _(by Athan Reines)_
 -   [`9d961d3`](https://github.com/stdlib-js/stdlib/commit/9d961d3dbc8299eaa1f3fe0a5bf7c471c2907c43) - **test:** add test cases for `blas/base/dtrmv` [(#6733)](https://github.com/stdlib-js/stdlib/pull/6733) _(by Shabareesh Shetty)_
 -   [`08f9c1a`](https://github.com/stdlib-js/stdlib/commit/08f9c1af6dee1cc36cda84b10230500e75d53ff5) - **chore:** minor clean-up _(by Philipp Burckhardt)_
