@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-24)
+## Unreleased (2026-06-25)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`22afd69`](https://github.com/stdlib-js/stdlib/commit/22afd69bdd0d1e48bad6dd0bb60b1c29203f04d4) - **refactor:** add enum support in `blas/base/dtrmv` [(#13109)](https://github.com/stdlib-js/stdlib/pull/13109) _(by Divit Jain)_
 -   [`8fff79b`](https://github.com/stdlib-js/stdlib/commit/8fff79b16224ab75b57074709c5f8d9d9c9439e5) - **bench:** use string interpolation in `blas/base/dtrmv` [(#10551)](https://github.com/stdlib-js/stdlib/pull/10551) _(by Om-A-osc)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Divit Jain
 -   Om-A-osc
 
 </section>
