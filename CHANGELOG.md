@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-10)
+## Unreleased (2026-11-03)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`22afd69`](https://github.com/stdlib-js/stdlib/commit/22afd69bdd0d1e48bad6dd0bb60b1c29203f04d4) - **refactor:** add enum support in `blas/base/dtrmv` [(#13109)](https://github.com/stdlib-js/stdlib/pull/13109) _(by Divit Jain)_
 -   [`8fff79b`](https://github.com/stdlib-js/stdlib/commit/8fff79b16224ab75b57074709c5f8d9d9c9439e5) - **bench:** use string interpolation in `blas/base/dtrmv` [(#10551)](https://github.com/stdlib-js/stdlib/pull/10551) _(by Om-A-osc)_
 
@@ -25,10 +26,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Divit Jain
 -   Om-A-osc
+-   Philipp Burckhardt
 
 </section>
 
